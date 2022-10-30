@@ -7,7 +7,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1586070528321806338/Owk6_LJz_400x400.jpg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://static-cdn.jtvnw.net/jtv_user_pictures/43b9ae5e-e48b-4f72-81b2-6faed2f7cb72-profile_image-300x300.png">
 </div>
 
   ##
