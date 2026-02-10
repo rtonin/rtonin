@@ -124,8 +124,7 @@ Experienced developer passionate about **Python**, **Web Development**, and **Au
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rtonin&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rtonin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rtonin&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />  
 </div>
 
 <br />
