@@ -1,6 +1,7 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Rafael+Tonin;Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=580&lines=Hi+there!+%F0%9F%91%8B+I'm+Rafael+Tonin;Content+Creator" alt="Typing SVG" />
+
 </div>
 
 <div align="center">
