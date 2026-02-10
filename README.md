@@ -35,12 +35,15 @@
 <!-- About Me -->
 ### 👨‍💻 About Me
 
-Experienced developer passionate about **Python**, **Web Development**, and **Automation**. I love building tools that solve real-world problems and sharing my journey through content creation. Currently focused on **AI Agents** and **SaaS Development**.
+I am a **Content Creator** driven by the intersection of **Technology, Finance, and AI**.
 
-- 🔭 I’m currently working on **AI-powered applications**
-- 🌱 I’m currently learning **Advanced System Design**
-- 💬 Ask me about **Python, React, API Development**
-- 📫 How to reach me: **rafael@rtonin.com**
+I am a dedicated researcher in the **Web3** space, deeply engaged with **Bitcoin, DeFi, and Cybersecurity**, holding certifications in Digital Currencies from the University of Nicosia (UNIC).
+
+- 🔭 I’m currently building **AI Agents & SaaS Platforms**
+- 🌱 I’m currently exploring **DeFi Protocols & Network Security**
+- ⚡ Interests: **Bitcoin, Artificial Intelligence, Financial Markets**
+- 💬 Ask me about: **Python, Web3, and Crypto in General**
+- 📫 Reach me at: **rafael@rtonin.com**
 
 <br />
 
