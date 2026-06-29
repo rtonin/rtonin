@@ -128,7 +128,6 @@ I am a dedicated researcher in the **Web3** space, deeply engaged with **Bitcoin
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rtonin&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtonin&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages" />
 </div>
 
 <br />
