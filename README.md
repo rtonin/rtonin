@@ -127,7 +127,8 @@ I am a dedicated researcher in the **Web3** space, deeply engaged with **Bitcoin
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rtonin&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=rtonin&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtonin&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages" />
 </div>
 
 <br />
@@ -142,15 +143,9 @@ I am a dedicated researcher in the **Web3** space, deeply engaged with **Bitcoin
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/rtonin/rtonin/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<br />
-<hr />
-
-<!-- Footer -->
-<div align="center">
-  <p>Visitor Count</p>
-  <img src="https://komarev.com/ghpvc/?username=rtonin&style=flat-square&color=blueviolet" alt="visitor count" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rtonin/rtonin/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rtonin/rtonin/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/rtonin/rtonin/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  </picture>
 </div>
